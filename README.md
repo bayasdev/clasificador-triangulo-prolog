@@ -1,0 +1,1 @@
+# clasificador-triangulo-prolog
